@@ -1,11 +1,12 @@
 # ESP-12F-Flasher
 Programmer for ESP-12F modules. 
 
-![Alt text](/Hardware/Flasher_V1/Project%20Outputs%20for%20Flasher_V1/PCB.png?raw=true "PCB")
+![Alt text](/Pictures/PCB.png?raw=true "PCB")
 
 ## To have boards made:
 Send the .zip file to your board house of choice (PCBWay, Dirty PCB, OshPark, etc.)
 All gerbers are located in [here](/Hardware/Flasher_V1/Project%20Outputs%20for%20Flasher_V1)
+The BOM with all the parts you needs is located [here](/Hardware/Flasher_V1/Project%20Outputs%20for%20Flasher_V1/BOM)
 
 ## Other notes:
 The programmer was meant to be used with POGO Pins, specifically [these](https://www.amazon.com/gp/product/B00BG6JJZY)
