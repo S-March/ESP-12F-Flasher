@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Flasher_V1.PcbDoc]
+   Generated File[Flasher_V1.TXT]
+   Generated File[Flasher_V1.LDP]
+   Generated File[Flasher_V1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:05:54 PM On 1/28/2017
