@@ -1,12 +1,14 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [Flasher_V1.PcbDoc]
-   Generated File[Flasher_V1.TXT]
-   Generated File[Flasher_V1.LDP]
-   Generated File[Flasher_V1.DRR]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 1:33:07 PM On 1/29/2017
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of BOM Document [BOM.BomDoc]
+   Generated File[Bill of Materials-BOM.xlsx]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 8:05:54 PM On 1/28/2017
+Finished Output Generation At 1:33:17 PM On 1/29/2017

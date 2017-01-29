@@ -1,6 +1,8 @@
 # ESP-12F-Flasher
 Programmer for ESP-12F modules. 
 
+![Alt text](/Hardware/Flasher_V1/Project%20Outputs%20for%20Flasher_V1/PCB.png?raw=true "PCB")
+
 ## To have boards made:
 Send the .zip file to your board house of choice (PCBWay, Dirty PCB, OshPark, etc.)
 All gerbers are located in [here](/Hardware/Flasher_V1/Project%20Outputs%20for%20Flasher_V1)
